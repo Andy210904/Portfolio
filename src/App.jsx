@@ -98,7 +98,7 @@ const Portfolio = () => {
           <div className=" mb-8 relative">
             <div className="w-48 h-48 mx-auto rounded-full bg-gradient-to-br from-blue-400 to-purple-600 p-1 animate-pulse">
               <div className="w-full h-full rounded-full bg-slate-800 flex items-center justify-center">
-                <img src="../public/Me.jpg"alt="User Avatar"className="w-44 h-44 rounded-full object-cover"/>
+                <img src="/Me.jpg"alt="User Avatar"className="w-44 h-44 rounded-full object-cover"/>
               </div>
             </div>
           </div>
