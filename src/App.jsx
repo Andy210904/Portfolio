@@ -122,10 +122,10 @@ const Portfolio = () => {
               <Mail className="w-5 h-5" />
               Contact Me
             </a>
-            <button className="flex items-center gap-2 bg-purple-600/20 hover:bg-purple-600/30 px-6 py-3 rounded-full border border-purple-500/30 transition-all duration-300 hover:scale-105">
+            <a href="/resume.pdf" download className="flex items-center gap-2 bg-purple-900 hover:bg-purple-500/30 px-6 py-3 rounded-full border border-purple-500/30 transition-all duration-300 hover:scale-105">
               <Download className="w-5 h-5" />
               Download Resume
-            </button>
+            </a>
           </div>
           
           <div className="absolute bottom-8 left-1/2 transform -translate-x-1/2 animate-bounce">
